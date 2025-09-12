@@ -1,0 +1,610 @@
+{
+  "user_id": "user_123",
+  "device": "Fitness Tracker pro",
+  "export_date": "2025-09-10",
+  "heart_rate_data": [
+    {
+      "timestamp": "2025-09-10T08:00:00",
+      "bpm": 69,
+      "confidence": 0.8852087114293526
+    },
+    {
+      "timestamp": "2025-09-10T08:01:00",
+      "bpm": 74,
+      "confidence": 0.8325893280209884
+    },
+    {
+      "timestamp": "2025-09-10T08:02:00",
+      "bpm": 73,
+      "confidence": 0.8964202090917659
+    },
+    {
+      "timestamp": "2025-09-10T08:03:00",
+      "bpm": 61,
+      "confidence": 0.8637118673534966
+    },
+    {
+      "timestamp": "2025-09-10T08:04:00",
+      "bpm": 71,
+      "confidence": 0.8121573585210549
+    },
+    {
+      "timestamp": "2025-09-10T08:05:00",
+      "bpm": 80,
+      "confidence": 0.8847824305825547
+    },
+    {
+      "timestamp": "2025-09-10T08:06:00",
+      "bpm": 70,
+      "confidence": 0.8583631673576205
+    },
+    {
+      "timestamp": "2025-09-10T08:07:00",
+      "bpm": 68,
+      "confidence": 0.8646672164317308
+    },
+    {
+      "timestamp": "2025-09-10T08:08:00",
+      "bpm": 71,
+      "confidence": 0.9179512525376781
+    },
+    {
+      "timestamp": "2025-09-10T08:09:00",
+      "bpm": 73,
+      "confidence": 0.8098389272818727
+    },
+    {
+      "timestamp": "2025-09-10T08:10:00",
+      "bpm": 75,
+      "confidence": 0.962904490568289
+    },
+    {
+      "timestamp": "2025-09-10T08:11:00",
+      "bpm": 67,
+      "confidence": 0.8104833958283012
+    },
+    {
+      "timestamp": "2025-09-10T08:12:00",
+      "bpm": 74,
+      "confidence": 0.8888316755433632
+    },
+    {
+      "timestamp": "2025-09-10T08:13:00",
+      "bpm": 59,
+      "confidence": 0.8734371542384741
+    },
+    {
+      "timestamp": "2025-09-10T08:14:00",
+      "bpm": 89,
+      "confidence": 0.9082714625549556
+    },
+    {
+      "timestamp": "2025-09-10T08:15:00",
+      "bpm": 72,
+      "confidence": 0.9834769094234574
+    },
+    {
+      "timestamp": "2025-09-10T08:16:00",
+      "bpm": 63,
+      "confidence": 0.9991588248971841
+    },
+    {
+      "timestamp": "2025-09-10T08:17:00",
+      "bpm": 75,
+      "confidence": 0.9052221910778898
+    },
+    {
+      "timestamp": "2025-09-10T08:18:00",
+      "bpm": 72,
+      "confidence": 0.8928888228642003
+    },
+    {
+      "timestamp": "2025-09-10T08:19:00",
+      "bpm": 73,
+      "confidence": 0.9880530988344304
+    },
+    {
+      "timestamp": "2025-09-10T08:20:00",
+      "bpm": 65,
+      "confidence": 0.8161619448190777
+    },
+    {
+      "timestamp": "2025-09-10T08:21:00",
+      "bpm": 78,
+      "confidence": 0.8196200844028517
+    },
+    {
+      "timestamp": "2025-09-10T08:22:00",
+      "bpm": 68,
+      "confidence": 0.8370721080137857
+    },
+    {
+      "timestamp": "2025-09-10T08:23:00",
+      "bpm": 71,
+      "confidence": 0.8229789607127238
+    },
+    {
+      "timestamp": "2025-09-10T08:24:00",
+      "bpm": 64,
+      "confidence": 0.815763110663581
+    },
+    {
+      "timestamp": "2025-09-10T08:25:00",
+      "bpm": 50,
+      "confidence": 0.9339431494288135
+    },
+    {
+      "timestamp": "2025-09-10T08:26:00",
+      "bpm": 69,
+      "confidence": 0.9746491703480606
+    },
+    {
+      "timestamp": "2025-09-10T08:27:00",
+      "bpm": 89,
+      "confidence": 0.9549850537046869
+    },
+    {
+      "timestamp": "2025-09-10T08:28:00",
+      "bpm": 71,
+      "confidence": 0.8646415567480217
+    },
+    {
+      "timestamp": "2025-09-10T08:29:00",
+      "bpm": 62,
+      "confidence": 0.90400957973451
+    },
+    {
+      "timestamp": "2025-09-10T08:30:00",
+      "bpm": 76,
+      "confidence": 0.8487600280851442
+    },
+    {
+      "timestamp": "2025-09-10T08:31:00",
+      "bpm": 65,
+      "confidence": 0.934199053075431
+    },
+    {
+      "timestamp": "2025-09-10T08:32:00",
+      "bpm": 63,
+      "confidence": 0.9458832887945758
+    },
+    {
+      "timestamp": "2025-09-10T08:33:00",
+      "bpm": 68,
+      "confidence": 0.8368883025451052
+    },
+    {
+      "timestamp": "2025-09-10T08:34:00",
+      "bpm": 76,
+      "confidence": 0.8739719659162981
+    },
+    {
+      "timestamp": "2025-09-10T08:35:00",
+      "bpm": 76,
+      "confidence": 0.9177699728955313
+    },
+    {
+      "timestamp": "2025-09-10T08:36:00",
+      "bpm": 75,
+      "confidence": 0.9535118008703551
+    },
+    {
+      "timestamp": "2025-09-10T08:37:00",
+      "bpm": 67,
+      "confidence": 0.9967681124965044
+    },
+    {
+      "timestamp": "2025-09-10T08:38:00",
+      "bpm": 67,
+      "confidence": 0.9869808889936154
+    },
+    {
+      "timestamp": "2025-09-10T08:39:00",
+      "bpm": 73,
+      "confidence": 0.8566660723278758
+    },
+    {
+      "timestamp": "2025-09-10T08:40:00",
+      "bpm": 77,
+      "confidence": 0.9300546333517463
+    },
+    {
+      "timestamp": "2025-09-10T08:41:00",
+      "bpm": 63,
+      "confidence": 0.8821962890886555
+    },
+    {
+      "timestamp": "2025-09-10T08:42:00",
+      "bpm": 77,
+      "confidence": 0.9463921210954328
+    },
+    {
+      "timestamp": "2025-09-10T08:43:00",
+      "bpm": 65,
+      "confidence": 0.8548066878451754
+    },
+    {
+      "timestamp": "2025-09-10T08:44:00",
+      "bpm": 70,
+      "confidence": 0.846020779871716
+    },
+    {
+      "timestamp": "2025-09-10T08:45:00",
+      "bpm": 75,
+      "confidence": 0.8354696640339766
+    },
+    {
+      "timestamp": "2025-09-10T08:46:00",
+      "bpm": 67,
+      "confidence": 0.8505657643024016
+    },
+    {
+      "timestamp": "2025-09-10T08:47:00",
+      "bpm": 72,
+      "confidence": 0.8845247883614326
+    },
+    {
+      "timestamp": "2025-09-10T08:48:00",
+      "bpm": 54,
+      "confidence": 0.897706304391408
+    },
+    {
+      "timestamp": "2025-09-10T08:49:00",
+      "bpm": 59,
+      "confidence": 0.9197480712148698
+    },
+    {
+      "timestamp": "2025-09-10T08:50:00",
+      "bpm": 68,
+      "confidence": 0.8903927547854963
+    },
+    {
+      "timestamp": "2025-09-10T08:51:00",
+      "bpm": 50,
+      "confidence": 0.875809907784253
+    },
+    {
+      "timestamp": "2025-09-10T08:52:00",
+      "bpm": 61,
+      "confidence": 0.9851753416692588
+    },
+    {
+      "timestamp": "2025-09-10T08:53:00",
+      "bpm": 78,
+      "confidence": 0.8032074057317588
+    },
+    {
+      "timestamp": "2025-09-10T08:54:00",
+      "bpm": 61,
+      "confidence": 0.9843788613819638
+    },
+    {
+      "timestamp": "2025-09-10T08:55:00",
+      "bpm": 80,
+      "confidence": 0.959814946139675
+    },
+    {
+      "timestamp": "2025-09-10T08:56:00",
+      "bpm": 66,
+      "confidence": 0.9867439734119201
+    },
+    {
+      "timestamp": "2025-09-10T08:57:00",
+      "bpm": 59,
+      "confidence": 0.8362672498882618
+    },
+    {
+      "timestamp": "2025-09-10T08:58:00",
+      "bpm": 71,
+      "confidence": 0.8514593859637278
+    },
+    {
+      "timestamp": "2025-09-10T08:59:00",
+      "bpm": 75,
+      "confidence": 0.8934430006649429
+    }
+  ],
+  "step_data": [
+    {
+      "timestamp": "2025-09-10T08:00:00",
+      "steps": 10,
+      "cadence": 600
+    },
+    {
+      "timestamp": "2025-09-10T08:01:00",
+      "steps": 8,
+      "cadence": 480
+    },
+    {
+      "timestamp": "2025-09-10T08:02:00",
+      "steps": 3,
+      "cadence": 180
+    },
+    {
+      "timestamp": "2025-09-10T08:03:00",
+      "steps": 8,
+      "cadence": 480
+    },
+    {
+      "timestamp": "2025-09-10T08:04:00",
+      "steps": 18,
+      "cadence": 1080
+    },
+    {
+      "timestamp": "2025-09-10T08:05:00",
+      "steps": 10,
+      "cadence": 600
+    },
+    {
+      "timestamp": "2025-09-10T08:06:00",
+      "steps": 5,
+      "cadence": 300
+    },
+    {
+      "timestamp": "2025-09-10T08:07:00",
+      "steps": 17,
+      "cadence": 1020
+    },
+    {
+      "timestamp": "2025-09-10T08:08:00",
+      "steps": 9,
+      "cadence": 540
+    },
+    {
+      "timestamp": "2025-09-10T08:09:00",
+      "steps": 14,
+      "cadence": 840
+    },
+    {
+      "timestamp": "2025-09-10T08:10:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:11:00",
+      "steps": 9,
+      "cadence": 540
+    },
+    {
+      "timestamp": "2025-09-10T08:12:00",
+      "steps": 12,
+      "cadence": 720
+    },
+    {
+      "timestamp": "2025-09-10T08:13:00",
+      "steps": 9,
+      "cadence": 540
+    },
+    {
+      "timestamp": "2025-09-10T08:14:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:15:00",
+      "steps": 5,
+      "cadence": 300
+    },
+    {
+      "timestamp": "2025-09-10T08:16:00",
+      "steps": 15,
+      "cadence": 900
+    },
+    {
+      "timestamp": "2025-09-10T08:17:00",
+      "steps": 14,
+      "cadence": 840
+    },
+    {
+      "timestamp": "2025-09-10T08:18:00",
+      "steps": 11,
+      "cadence": 660
+    },
+    {
+      "timestamp": "2025-09-10T08:19:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:20:00",
+      "steps": 6,
+      "cadence": 360
+    },
+    {
+      "timestamp": "2025-09-10T08:21:00",
+      "steps": 12,
+      "cadence": 720
+    },
+    {
+      "timestamp": "2025-09-10T08:22:00",
+      "steps": 11,
+      "cadence": 660
+    },
+    {
+      "timestamp": "2025-09-10T08:23:00",
+      "steps": 14,
+      "cadence": 840
+    },
+    {
+      "timestamp": "2025-09-10T08:24:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:25:00",
+      "steps": 9,
+      "cadence": 540
+    },
+    {
+      "timestamp": "2025-09-10T08:26:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:27:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:28:00",
+      "steps": 16,
+      "cadence": 960
+    },
+    {
+      "timestamp": "2025-09-10T08:29:00",
+      "steps": 14,
+      "cadence": 840
+    },
+    {
+      "timestamp": "2025-09-10T08:30:00",
+      "steps": 21,
+      "cadence": 1260
+    },
+    {
+      "timestamp": "2025-09-10T08:31:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:32:00",
+      "steps": 17,
+      "cadence": 1020
+    },
+    {
+      "timestamp": "2025-09-10T08:33:00",
+      "steps": 17,
+      "cadence": 1020
+    },
+    {
+      "timestamp": "2025-09-10T08:34:00",
+      "steps": 12,
+      "cadence": 720
+    },
+    {
+      "timestamp": "2025-09-10T08:35:00",
+      "steps": 14,
+      "cadence": 840
+    },
+    {
+      "timestamp": "2025-09-10T08:36:00",
+      "steps": 18,
+      "cadence": 1080
+    },
+    {
+      "timestamp": "2025-09-10T08:37:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:38:00",
+      "steps": 11,
+      "cadence": 660
+    },
+    {
+      "timestamp": "2025-09-10T08:39:00",
+      "steps": 9,
+      "cadence": 540
+    },
+    {
+      "timestamp": "2025-09-10T08:40:00",
+      "steps": 16,
+      "cadence": 960
+    },
+    {
+      "timestamp": "2025-09-10T08:41:00",
+      "steps": 15,
+      "cadence": 900
+    },
+    {
+      "timestamp": "2025-09-10T08:42:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:43:00",
+      "steps": 10,
+      "cadence": 600
+    },
+    {
+      "timestamp": "2025-09-10T08:44:00",
+      "steps": 12,
+      "cadence": 720
+    },
+    {
+      "timestamp": "2025-09-10T08:45:00",
+      "steps": 10,
+      "cadence": 600
+    },
+    {
+      "timestamp": "2025-09-10T08:46:00",
+      "steps": 11,
+      "cadence": 660
+    },
+    {
+      "timestamp": "2025-09-10T08:47:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:48:00",
+      "steps": 7,
+      "cadence": 420
+    },
+    {
+      "timestamp": "2025-09-10T08:49:00",
+      "steps": 10,
+      "cadence": 600
+    },
+    {
+      "timestamp": "2025-09-10T08:50:00",
+      "steps": 13,
+      "cadence": 780
+    },
+    {
+      "timestamp": "2025-09-10T08:51:00",
+      "steps": 11,
+      "cadence": 660
+    },
+    {
+      "timestamp": "2025-09-10T08:52:00",
+      "steps": 6,
+      "cadence": 360
+    },
+    {
+      "timestamp": "2025-09-10T08:53:00",
+      "steps": 14,
+      "cadence": 840
+    },
+    {
+      "timestamp": "2025-09-10T08:54:00",
+      "steps": 11,
+      "cadence": 660
+    },
+    {
+      "timestamp": "2025-09-10T08:55:00",
+      "steps": 11,
+      "cadence": 660
+    },
+    {
+      "timestamp": "2025-09-10T08:56:00",
+      "steps": 14,
+      "cadence": 840
+    },
+    {
+      "timestamp": "2025-09-10T08:57:00",
+      "steps": 17,
+      "cadence": 1020
+    },
+    {
+      "timestamp": "2025-09-10T08:58:00",
+      "steps": 10,
+      "cadence": 600
+    },
+    {
+      "timestamp": "2025-09-10T08:59:00",
+      "steps": 6,
+      "cadence": 360
+    }
+  ],
+  "sleep_data": []
+}
